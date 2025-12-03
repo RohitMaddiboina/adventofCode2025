@@ -1,3 +1,5 @@
+https://adventofcode.com/2025
+
 From Day 2 puzzle 
   1. String Manipulation & Parsing
      a. Since numbers in programming languages don't easily allow you to access repeating sequences, string operations are essential.
